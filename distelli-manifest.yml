@@ -1,6 +1,6 @@
 pierre/puppet_webapp:
   Env:
-    - PORT: "8080"
+    - PORT: "$PORT"
   PreBuild:
     - sh -x scripts/pre_build.sh
   Build:
