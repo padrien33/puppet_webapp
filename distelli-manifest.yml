@@ -1,4 +1,4 @@
-pierre/puppet_webapp_webinar:
+pierre/puppet_webapp_webinar_aws:
   Env:
     - PORT: "$PORT"
   PreBuild:
