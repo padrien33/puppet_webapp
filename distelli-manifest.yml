@@ -1,4 +1,4 @@
-pierre/puppet_webapp:
+pierre/puppet_webapp_go:
   Env:
     - PORT: "$PORT"
   PreBuild:
