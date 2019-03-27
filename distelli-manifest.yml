@@ -1,4 +1,4 @@
-pierre/puppet_webapp:
+pierre/puppet_webapp_motc:
   Env:
     - PORT: "$PORT"
   PreBuild:
